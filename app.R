@@ -17,3 +17,4 @@ ui <- fluidPage(sidebarLayout(sidebarPanel(
 mainPanel(plotOutput("distPlot"))))
 
 shinyApp(ui = ui, server = server)
+ #add a comment 
