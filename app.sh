@@ -18,8 +18,8 @@
 # R/Shiny example
 
 CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
-if [ "$APP_VERSION" != "$CURRENT_BRANCH" ]
+if [ "$BRANCH" != "$CURRENT_BRANCH" ]
 then
-  git checkout $APP_VERSION
+  git checkout $BRANCH
 fi
 R -e 'shiny::runApp("./", port=8888, host="0.0.0.0")'
