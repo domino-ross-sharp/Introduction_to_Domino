@@ -37,6 +37,6 @@ You can also use Domino to deploy a web app to publish dashboards and enable bro
 
 This project contains a few examples of apps that can be published: `app.R`, `app-flask.py`, `app-dash.py`. `app.sh` is the file that specifies which app to run. You can find all these in the [Files](browse) section.
 
-Try publishing the sample app we’ve created for you.
+Try publishing the sample app we’ve created for you...
 
 [![Publish An App](raw/latest/publish-an-app.svg)](/launchpad-publisher/:ownerName/:projectName/publishApp?name=Sample-app)
