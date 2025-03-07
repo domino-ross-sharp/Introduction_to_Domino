@@ -1,4 +1,4 @@
-Welcome to your very own Domino quick-start project! This project has examples for running your notebook using workspaces, publishing models as APIs, and publishing Python/Flask and R/Shiny web applications.
+Welcome to your very own Domino quick-start project! This project has examples for running your notebook using workspaces, publishing models as APIs, and publishing Python/Flask and R/Shiny web applications
 
 ### Run your first notebook
 You can run interactive tools like Jupyter Notebooks and RStudio inside a Domino Workspace. Workspace is where you would do most of your research. 
